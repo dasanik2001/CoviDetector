@@ -26,7 +26,12 @@ The Datasets for this study are acquired from the following:
 3. [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) 
 4. [Covid19 Detection](https://www.kaggle.com/datasets/donjon00/covid19-detection) 
 
-
+### Highlights
+•	CoviDetector is new semi-supervised approach based on transfer learning & clustering.
+•	CoviDetector generates models with improved accuracy and require less training data.
+•	CXR images are given to the deep learning model to evaluate CoviDetector.
+•	CoviDetector utilizes the GradCam to interpret the output in a graphical form.
+•	Developed an Android app to offer a user-friendly interface. 
 ### Warning
 The copyright of the shared work is reserved. Reference should be cite to the CoviDetector article for use in academic studies.
 
