@@ -40,6 +40,8 @@ The copyright of the shared work is reserved. Reference should be cite to the Co
 @article{CHOWDHURY2023100119,
 title = {CoviDetector: A transfer learning-based semi supervised approach to detect Covid-19 using CXR images},
 journal = {BenchCouncil Transactions on Benchmarks, Standards and Evaluations},
+volume = {3},
+number = {2},
 pages = {100119},
 year = {2023},
 issn = {2772-4859},
